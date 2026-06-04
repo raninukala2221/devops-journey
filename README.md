@@ -31,7 +31,7 @@ This repository documents my daily progress learning Linux for multi-cloud infra
 
 ## 📅 Day 5: Linux Basic Commands
 ### 👤 Login Procedure & Command Prompts
-* **Normal User:** Login: `ram` | Password: `password` -> Prompt shows symbol: `$`
+* **Normal User:** Login: `rani` | Password: `password` -> Prompt shows symbol: `$`
 * **Super User:** Login: `root` | Password: `password` -> Prompt shows symbol: `#`
 
 ### ⚙️ Command Syntax & Structure
